@@ -1,0 +1,17 @@
+body{
+    font-size: 16px;
+    color: #fff;
+    background-color: #201f1e;
+    font-family: 'Oxygen', sans-serif;
+}
+
+/* *******Header Section************ */
+#header-nav{
+    background-color: #c5dbc9;
+    border-radius: 0;
+    border: 0;
+}
+
+#logo-img{
+    
+}
